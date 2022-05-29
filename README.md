@@ -5,10 +5,10 @@
 - À procura da 1 oportunidade no mercado de trabalho, visando o desenvolvimento pessoal junto à empresa.
 ##
 
-<div align="center">
+<div style= "text-align: center">
   <a href="https://github.com/guilhermepacheco462">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=guilhermepacheco462&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&title_color=ff1010&icon_color=ff1010"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepacheco462&layout=compact&langs_count=8&theme=midnight-purple&title_color=ff1010&icon_color=ff1010"/>
+  <img height="155em" width="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepacheco462&layout=compact&langs_count=8&theme=midnight-purple&title_color=ff1010&icon_color=ff1010"/>
   </a>
 </div>
   
