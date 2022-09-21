@@ -1,6 +1,6 @@
 ## Olá, me chamo Guilherme
 - Estou cursando ADS, com foco em desenvolvimento.
-- Sou estudante de programação, focado em se tornar Full Stack.
+- Sou estudante de programação, focado em me tornar Full Stack.
 - Buscando novas experiências e conhecimentos sempre.
 - À procura da 1 oportunidade no mercado de trabalho, visando o desenvolvimento pessoal junto à empresa.
 ##
